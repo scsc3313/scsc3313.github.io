@@ -12,9 +12,9 @@
 
 ##연결
 
-[mail](mailto:scsc3313@hanmail.net).
-[github](http://github.com/scsc3313/).
-[facebook](https://ko-kr.facebook.com/people/%ED%98%84%EC%8A%B9%ED%98%B8/100003175042715).
+[![Alt text](/images/mail.png)](mailto:scsc3313@hanmail.net)
+[![Alt text](/images/github.png)](http://github.com/scsc3313/)
+[![Alt text](/images/facebook.png)](https://ko-kr.facebook.com/people/%ED%98%84%EC%8A%B9%ED%98%B8/100003175042715)
 
 
 ##언어
